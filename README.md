@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Check the demo here https://redux-records-book.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
